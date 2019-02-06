@@ -117,7 +117,7 @@ body {
 @media (min-width: 768px) {
   .cover-heading {
     font-size: 2.4rem;
-    letter-spacing: 15px;
+    letter-spacing: 8px;
   }
 }
 
